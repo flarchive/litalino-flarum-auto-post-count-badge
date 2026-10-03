@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of litalino/flarum-auto-post-count-badge.** Not for installation: use [Packagist](https://packagist.org/packages/litalino/flarum-auto-post-count-badge) or the [upstream repository](https://github.com/Litalino/flarum-auto-post-count-badge).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/litalino-flarum-auto-post-count-badge/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/litalino-flarum-auto-post-count-badge/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-12-26 | `^1.2.0` | [Browse](https://github.com/flarchive/litalino-flarum-auto-post-count-badge/tree/archive/v1.0.0) |
+| `1.1.0` | 2024-07-04 | `^1.2.0` | [Browse](https://github.com/flarchive/litalino-flarum-auto-post-count-badge/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/litalino-flarum-auto-post-count-badge.json](https://github.com/flarchive/archive-index/blob/main/packages/litalino-flarum-auto-post-count-badge.json)
 
